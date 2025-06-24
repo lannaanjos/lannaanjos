@@ -1,4 +1,4 @@
-## Hello Wired, I'm Lanna <img src=https://media.tenor.com/A-Cc_uGZVQEAAAAj/lain-serial-experiments-lain.gif width="30">
+## <img src=https://media.tenor.com/A-Cc_uGZVQEAAAAj/lain-serial-experiments-lain.gif width="30"> Hello Wired, I'm Lanna 
 ..Computer Science student and Linux beginner :D  
 
 Contact me on [Linkedin](https://www.linkedin.com/in/lannadosanjoscosta/) !! 📫
